@@ -18,8 +18,8 @@
     "main~a97bfcba.js.map": "./static/js/main~a97bfcba.59d2d500.chunk.js.map",
     "main~b4c0da39.js": "./static/js/main~b4c0da39.1742b442.chunk.js",
     "main~b4c0da39.js.map": "./static/js/main~b4c0da39.1742b442.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.67685dd9.js",
-    "runtime-main.js.map": "./static/js/runtime-main.67685dd9.js.map",
+    "runtime-main.js": "./static/js/runtime-main.1985b0da.js",
+    "runtime-main.js.map": "./static/js/runtime-main.1985b0da.js.map",
     "static/js/10.036bd865.chunk.js": "./static/js/10.036bd865.chunk.js",
     "static/js/10.036bd865.chunk.js.map": "./static/js/10.036bd865.chunk.js.map",
     "static/js/11.d1318276.chunk.js": "./static/js/11.d1318276.chunk.js",
@@ -69,7 +69,7 @@
     "static/svg/wallet-connect.svg": "./static/svg/wallet-connect.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.67685dd9.js",
+    "static/js/runtime-main.1985b0da.js",
     "static/js/main~493df0b3.e7e9a4b5.chunk.js",
     "static/js/main~4134d62c.0acd4e9c.chunk.js",
     "static/js/main~47dad47d.e9ccd160.chunk.js",
