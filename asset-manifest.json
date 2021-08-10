@@ -1,23 +1,23 @@
 {
   "files": {
-    "main~06837ae4.js": "./static/js/main~06837ae4.ffc08fb7.chunk.js",
-    "main~06837ae4.js.map": "./static/js/main~06837ae4.ffc08fb7.chunk.js.map",
+    "main~06837ae4.js": "./static/js/main~06837ae4.62153dde.chunk.js",
+    "main~06837ae4.js.map": "./static/js/main~06837ae4.62153dde.chunk.js.map",
     "main~2435613b.js": "./static/js/main~2435613b.5655159a.chunk.js",
     "main~2435613b.js.map": "./static/js/main~2435613b.5655159a.chunk.js.map",
     "main~4134d62c.js": "./static/js/main~4134d62c.59d62bac.chunk.js",
     "main~4134d62c.js.map": "./static/js/main~4134d62c.59d62bac.chunk.js.map",
     "main~47dad47d.js": "./static/js/main~47dad47d.8a34440e.chunk.js",
     "main~47dad47d.js.map": "./static/js/main~47dad47d.8a34440e.chunk.js.map",
-    "main~493df0b3.js": "./static/js/main~493df0b3.70126777.chunk.js",
-    "main~493df0b3.js.map": "./static/js/main~493df0b3.70126777.chunk.js.map",
+    "main~493df0b3.js": "./static/js/main~493df0b3.1175ba7e.chunk.js",
+    "main~493df0b3.js.map": "./static/js/main~493df0b3.1175ba7e.chunk.js.map",
     "main~6bd0612f.js": "./static/js/main~6bd0612f.88acb81f.chunk.js",
     "main~6bd0612f.js.map": "./static/js/main~6bd0612f.88acb81f.chunk.js.map",
     "main~a353122d.js": "./static/js/main~a353122d.899812c8.chunk.js",
     "main~a353122d.js.map": "./static/js/main~a353122d.899812c8.chunk.js.map",
     "main~b4c0da39.js": "./static/js/main~b4c0da39.d8a1f425.chunk.js",
     "main~b4c0da39.js.map": "./static/js/main~b4c0da39.d8a1f425.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.56cfcfc5.js",
-    "runtime-main.js.map": "./static/js/runtime-main.56cfcfc5.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d95c50d5.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d95c50d5.js.map",
     "static/js/9.03e736d4.chunk.js": "./static/js/9.03e736d4.chunk.js",
     "static/js/9.03e736d4.chunk.js.map": "./static/js/9.03e736d4.chunk.js.map",
     "index.html": "./index.html",
@@ -53,14 +53,14 @@
     "static/svg/wallet-connect.svg": "./static/svg/wallet-connect.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.56cfcfc5.js",
-    "static/js/main~493df0b3.70126777.chunk.js",
+    "static/js/runtime-main.d95c50d5.js",
+    "static/js/main~493df0b3.1175ba7e.chunk.js",
     "static/js/main~4134d62c.59d62bac.chunk.js",
     "static/js/main~47dad47d.8a34440e.chunk.js",
     "static/js/main~2435613b.5655159a.chunk.js",
     "static/js/main~a353122d.899812c8.chunk.js",
     "static/js/main~b4c0da39.d8a1f425.chunk.js",
     "static/js/main~6bd0612f.88acb81f.chunk.js",
-    "static/js/main~06837ae4.ffc08fb7.chunk.js"
+    "static/js/main~06837ae4.62153dde.chunk.js"
   ]
 }
