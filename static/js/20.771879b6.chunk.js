@@ -1,2 +1,0 @@
-(this["webpackJsonp@loopring-web/webapp"]=this["webpackJsonp@loopring-web/webapp"]||[]).push([[20],{2508:function(n,p){},2516:function(n,p){},2526:function(n,p){},2532:function(n,p){}}]);
-//# sourceMappingURL=20.771879b6.chunk.js.map
